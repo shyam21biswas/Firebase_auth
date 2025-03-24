@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "655130513638",
+    "project_id": "ved12-396db",
+    "storage_bucket": "ved12-396db.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:655130513638:android:3d40e6c17d32911ebfeb27",
+        "android_client_info": {
+          "package_name": "com.example.auth"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1KkO-iB5DQ2maWwxwneosG_Ru71MShgA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:655130513638:android:ebb3245e1bd04288bfeb27",
+        "android_client_info": {
+          "package_name": "com.example.gitphoneauthself"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1KkO-iB5DQ2maWwxwneosG_Ru71MShgA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:655130513638:android:5a9aef8c9a935e30bfeb27",
+        "android_client_info": {
+          "package_name": "com.example.phoneauthnew"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1KkO-iB5DQ2maWwxwneosG_Ru71MShgA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
